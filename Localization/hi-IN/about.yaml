@@ -1,0 +1,12 @@
+---
+url: "https://foldingathome.org/about/"
+language: "hi-IN"
+title: "ABOUT"
+text: [
+# Bold text at the start
+"फोलडिंग@होम (FAH or F@h)",
+
+# The rest of the paragraph
+"is a distributed computing project for simulating protein dynamics, including the process of protein folding and the movements of proteins implicated in a variety of diseases. It brings together citizen scientists who volunteer to run simulations of protein dynamics on their personal computers. Insights from this data are helping scientists to better understand biology, and providing new opportunities for developing therapeutics."
+"एक ‌डिस्िट्बुटॆड कंमपुटिंग प्रोजेक्ट हौ जॊ प्रॊटीन डाइनामिक्स, प्रॊटीन फोलडिंग और कई तरह कि रॊग मॆ हॊनॆवाली प्रॊटीन मुवमॆंट कॆ सिम्युलॆशन् मॆ सहायथा दॆती है| for simulating protein dynamics, including the process of protein folding and the movements of proteins implicated in a variety of diseases. It brings together citizen scientists who volunteer to run simulations of protein dynamics on their personal computers. Insights from this data are helping scientists to better understand biology, and providing new opportunities for developing therapeutics."
+]
